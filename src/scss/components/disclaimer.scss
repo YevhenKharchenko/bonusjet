@@ -1,0 +1,40 @@
+.disclaimer-section {
+  padding-top: 48px;
+  padding-bottom: 48px;
+
+  @include media(desktop) {
+    padding-top: 56px;
+    padding-bottom: 56px;
+  }
+}
+
+.disclaimer-container {
+  padding: 0 26px;
+
+  @include media(desktop) {
+    padding: 0 80px;
+  }
+}
+
+.disclaimer-title {
+  font-family: 'Akshar', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  text-align: center;
+  color: #f0f0f0;
+  margin-bottom: 16px;
+
+  @include media(desktop) {
+  }
+}
+
+.disclaimer-text {
+  font-family: 'Akshar', sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: center;
+  color: #f0f0f0;
+
+  @include media(desktop) {
+  }
+}

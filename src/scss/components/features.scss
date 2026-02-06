@@ -1,0 +1,126 @@
+.features-section {
+}
+
+.features-bg-wrapper {
+  padding-top: 48px;
+  padding-bottom: 296px;
+  max-width: 375px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url(../img/features/features-bg-mob.jpg);
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: auto;
+
+  @include media(desktop) {
+    padding-top: 56px;
+    padding-bottom: 1041px;
+    max-width: 1440px;
+    background-image: url(../img/features/features-bg-desk.jpg);
+  }
+}
+
+.features-title {
+  @include media(desktop) {
+  }
+}
+
+.features-container {
+}
+
+.features-content-wrapper {
+  @include media(desktop) {
+  }
+}
+
+.features-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+
+  @include media(desktop) {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.features-list-item {
+  padding: 24px 24px 24px 48px;
+  border-radius: 16px;
+  border: 1px solid transparent;
+  background:
+    linear-gradient(#021236, #021236) padding-box,
+    linear-gradient(to right, transparent, #798193) border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 11px;
+  width: 100%;
+  max-width: 323px;
+  min-height: 140px;
+
+  &:nth-child(1) {
+    .features-item-title {
+      color: #f89858;
+    }
+  }
+
+  &:nth-child(2) {
+    .features-item-title {
+      color: #7be68b;
+    }
+  }
+
+  &:nth-child(3) {
+    .features-item-title {
+      color: #d592f5;
+    }
+  }
+
+  &:nth-child(4) {
+    .features-item-title {
+      color: #fcd064;
+    }
+  }
+
+  &:nth-child(5) {
+    .features-item-title {
+      color: #f0878e;
+    }
+  }
+
+  &:nth-child(6) {
+    .features-item-title {
+      color: #53d1fe;
+    }
+  }
+
+  @include media(desktop) {
+    padding: 32px 24px 32px 48px;
+    min-height: 160px;
+    gap: 24px;
+  }
+}
+
+.features-item-title {
+  font-family: 'Akshar', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+
+  @include media(desktop) {
+  }
+}
+
+.features-item-text {
+  font-family: 'Akshar', sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  letter-spacing: 0.04em;
+  color: #f0f0f0;
+
+  @include media(desktop) {
+  }
+}

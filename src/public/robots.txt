@@ -3,4 +3,4 @@ Disallow: /admin/
 Disallow: /private/
 Allow: /
 
-Sitemap: https://neonflare.site/sitemap.xml
+Sitemap: https://bonusjet.online/sitemap.xml
