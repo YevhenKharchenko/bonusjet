@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">
+  <defs>
+    <symbol id="icon-arrow-back" viewBox="0 0 32 32">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333" d="M21.333 26 10.666 16 21.333 6"/>
+    </symbol>
+    <symbol id="icon-arrow-left" viewBox="0 0 32 32">
+      <path d="M16 0c7.953 0 14.4 6.447 14.4 14.4S23.953 28.8 16 28.8 1.6 22.353 1.6 14.4 8.047 0 16 0z"/>
+      <path fill="none" stroke="#fcd064" stroke-width=".8" d="M16 .4c7.732 0 14 6.268 14 14s-6.268 14-14 14-14-6.268-14-14S8.268.4 16 .4z" style="stroke:var(--color1, #fcd064)"/>
+      <path fill="none" stroke="#f0f0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8" d="m18.4 19.2-4.8-4.8 4.8-4.8" style="stroke:var(--color2, #f0f0f0)"/>
+    </symbol>
+    <symbol id="icon-arrow-right" viewBox="0 0 32 32">
+      <path d="M16 0c7.953 0 14.4 6.447 14.4 14.4S23.953 28.8 16 28.8 1.6 22.353 1.6 14.4 8.047 0 16 0z"/>
+      <path fill="none" stroke="#fcd064" stroke-width=".8" d="M16 .4c7.732 0 14 6.268 14 14s-6.268 14-14 14-14-6.268-14-14S8.268.4 16 .4z" style="stroke:var(--color1, #fcd064)"/>
+      <path fill="none" stroke="#f0f0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8" d="m13.6 19.2 4.8-4.8-4.8-4.8" style="stroke:var(--color2, #f0f0f0)"/>
+    </symbol>
+    <symbol id="icon-blue" viewBox="0 0 32 32">
+      <path fill="#53d1fe" d="m16 0 4.321 11.679L32 16l-11.679 4.321L16 32l-4.321-11.679L0 16l11.679-4.321L16 0z" style="fill:var(--color3, #53d1fe)"/>
+    </symbol>
+    <symbol id="icon-close" viewBox="0 0 32 32">
+      <path fill="none" stroke="#d592f5" stroke-width="1.333" d="M10.667.667h10.667c5.523 0 10 4.477 10 10v10.667c0 5.523-4.477 10-10 10H10.667c-5.523 0-10-4.477-10-10V10.667c0-5.523 4.477-10 10-10z" style="stroke:var(--color4, #d592f5)"/>
+      <path fill="none" stroke="#f0f0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333" d="m7 7 9 9m0 0-9 9m9-9 9 9m-9-9 9-9" style="stroke:var(--color2, #f0f0f0)"/>
+    </symbol>
+    <symbol id="icon-green" viewBox="0 0 32 32">
+      <path fill="#7be68b" d="m16 0 4.321 11.679L32 16l-11.679 4.321L16 32l-4.321-11.679L0 16l11.679-4.321L16 0z" style="fill:var(--color5, #7be68b)"/>
+    </symbol>
+    <symbol id="icon-menu" viewBox="0 0 32 32">
+      <path fill="none" stroke="#d592f5" stroke-width="1.333" d="M10.667.667h10.667c5.523 0 10 4.477 10 10v10.667c0 5.523-4.477 10-10 10H10.667c-5.523 0-10-4.477-10-10V10.667c0-5.523 4.477-10 10-10z" style="stroke:var(--color4, #d592f5)"/>
+      <path fill="none" stroke="#f0f0f0" stroke-linecap="round" stroke-width="1.333" d="M7.5 9.5h17m-17 12h17m-17-6h17" style="stroke:var(--color2, #f0f0f0)"/>
+    </symbol>
+    <symbol id="icon-orange" viewBox="0 0 32 32">
+      <path fill="#f89858" d="m16 0 4.321 11.679L32 16l-11.679 4.321L16 32l-4.321-11.679L0 16l11.679-4.321L16 0z" style="fill:var(--color6, #f89858)"/>
+    </symbol>
+    <symbol id="icon-pink" viewBox="0 0 32 32">
+      <path fill="#d592f5" d="m16 0 4.321 11.679L32 16l-11.679 4.321L16 32l-4.321-11.679L0 16l11.679-4.321L16 0z" style="fill:var(--color4, #d592f5)"/>
+    </symbol>
+    <symbol id="icon-rose" viewBox="0 0 32 32">
+      <path fill="#f0878e" d="m16 0 4.321 11.679L32 16l-11.679 4.321L16 32l-4.321-11.679L0 16l11.679-4.321L16 0z" style="fill:var(--color7, #f0878e)"/>
+    </symbol>
+    <symbol id="icon-yellow" viewBox="0 0 32 32">
+      <path fill="#fcd064" d="m16 0 4.321 11.679L32 16l-11.679 4.321L16 32l-4.321-11.679L0 16l11.679-4.321L16 0z" style="fill:var(--color1, #fcd064)"/>
+    </symbol>
+  </defs>
+</svg>
